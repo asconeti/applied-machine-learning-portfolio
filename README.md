@@ -78,11 +78,11 @@ applied-machine-learning-portfolio/
     └── wind_turbine_data.csv
 ```
 
-## Recommended repository name
+## repository name
 
 `applied-machine-learning-portfolio`
 
-## Recommended short description
+## short description
 
 `Portfolio of machine learning projects in Python covering unsupervised learning, supervised modelling, and ensemble methods, developed during the UOC Data Science master's program.`
 
