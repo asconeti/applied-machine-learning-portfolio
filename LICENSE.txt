@@ -1,0 +1,16 @@
+Copyright (c) 2026 Jordi Baiges Ferré
+All rights reserved.
+
+This repository and its contents are provided for portfolio and evaluation purposes only.
+
+Permission is NOT granted to:
+- copy, redistribute, or republish the code, notebooks, datasets, or documentation;
+- modify or create derivative works from the materials;
+- use the contents for commercial purposes;
+- submit, reuse, or adapt this work in academic or training contexts as if it were your own.
+
+You may view the contents of this repository for personal and non-commercial evaluation only.
+
+For any permission request, including reuse or collaboration, prior written authorization from the author is required.
+
+THE SOFTWARE, NOTEBOOKS, DATA, AND DOCUMENTATION ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE MATERIALS OR THE USE OR OTHER DEALINGS IN THE MATERIALS.
